@@ -1,7 +1,7 @@
 # Camera-texture-reproduction
 Method for assessing texture reproduction of camera-phone-based medical devices. Please un-zip the file named "MTF_tex_1_share.zip" for codes and instruction needed. 
 
-# Tool Reference
+# Regulatory Science Tool (RST) Reference
 •	RST Reference Number: RST24ES01.01  
 •	Date of Publication: 08/08/2023  
 •	Recommended Citation: U.S. Food and Drug Administration. (2023). Method for Assessing Texture Reproduction of Camera-phone-based Medical Devices (RST24ES01.01). https://cdrh-rst.fda.gov/method-assessing-texture-reproduction-camera-phone-based-medical-devices  
